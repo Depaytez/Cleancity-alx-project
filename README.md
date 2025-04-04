@@ -1,7 +1,7 @@
 <h1>Cleancity ALX Project</h1>
 
- ### [Click to View CleanCity Work on Google Slide](https://balmcitypush.vercel.app/)
- ### [Click to View CleanCity Designs on Figma](https://balmcitypush.vercel.app/)
+ ### [Click to View CleanCity Work on Google Slide](https://docs.google.com/presentation/d/10vKk8dnEFhJUswxqQ3WmmSV0JlNuoc5PpT9hGD13Xuk/edit?usp=drive_link     )
+ ### [Click to View CleanCity Designs on Figma](https://)
 
 <h2>Description</h2>
 a waste management app to fight flooding.
